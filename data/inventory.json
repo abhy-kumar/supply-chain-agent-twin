@@ -1,0 +1,18 @@
+{
+  "SKU-77A": {
+    "name": "High-Density Thermal Sensor",
+    "stock": 14,
+    "safety_stock": 50,
+    "unit_cost_usd": 120,
+    "supplier": "Apex Components",
+    "lead_time_days": 14
+  },
+  "SKU-99B": {
+    "name": "Reinforced Chasis Plate",
+    "stock": 310,
+    "safety_stock": 200,
+    "unit_cost_usd": 450,
+    "supplier": "Titan Metallurgy",
+    "lead_time_days": 7
+  }
+}
