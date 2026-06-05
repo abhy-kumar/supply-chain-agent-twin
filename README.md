@@ -6,6 +6,9 @@ An enterprise-grade agentic workflow utilizing LangGraph and Gemini 3.5 Flash to
 
 This application enforces structural determinism. Large Language Models are constrained to specific nodes to prevent hallucination, utilizing strict Pydantic schemas and programmatic validation loops.
 
+<img width="1641" height="1293" alt="image" src="https://github.com/user-attachments/assets/e26459d7-6779-448e-a0fe-8e7c9c3a8ee4" />
+
+
 ## Project Structure
 
 ```
